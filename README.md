@@ -1,3 +1,3 @@
-## Data Science Project Template
+# Fitness-Tracker
+A sophisticated machine learning model tailored to monitor and track(classify) barbell exercises in real-time by utilizing advanced algorithms and sensor data analysis to accurately predict the type of exercise being performed and count repetitions.
 
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
